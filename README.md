@@ -36,7 +36,7 @@ This project analyzes over 11,000 tweets from former U.S. President Donald Trump
   * Sentiment distributions comparing Fox vs. NYT
 
 ## Key Insights
-* Tweet device usage reveals behavioral differences — possibly between Trump and his staff.
+* Tweet device usage reveals behavioral differences, possibly between Trump and his staff.
 * Peak tweet hours and device types support journalist theories about authorship.
 * Sentiment analysis confirms tone differences when referring to different media outlets.
 
